@@ -14,6 +14,7 @@ A static clone of the Spotify web player built using only **HTML** and **CSS**. 
 - 📻 Player bar at the bottom (play/pause UI only)
 - 🎨 Fully responsive design
 - 💻 Pure HTML & CSS — no JS, no frameworks
+- Manual test cases are included
 
 ---
 
