@@ -121,15 +121,7 @@ ApnaGaana/
 
 # 📸 Application Preview
 
-https://github.com/Mantechie/ApnaGaana/blob/main/Assests/clip.gif   
-
----
-
-## 🎧 Playlist & Cards
-
-<img src="./Assests/card2img.jpeg" width="80%" />
-
-</div>
+(https://github.com/Mantechie/ApnaGaana/blob/main/Assests/clip.gif)   
 
 ---
 
