@@ -117,14 +117,6 @@ ApnaGaana/
 └── Apna_Gaana_test_cases.xlsx
 ```
 
----
-
-# 📸 Application Preview
-
-(https://github.com/Mantechie/ApnaGaana/blob/main/Assests/clip.gif)   
-
----
-
 # ⚙️ Getting Started
 
 ## 📥 Clone The Repository
