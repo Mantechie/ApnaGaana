@@ -121,9 +121,7 @@ ApnaGaana/
 
 # 📸 Application Preview
 
-<div align="center">
-
-<img src="./assests/clip.gif" style="width: 80%;" alt="Animated GIF">   
+https://github.com/Mantechie/ApnaGaana/blob/main/Assests/clip.gif   
 
 ---
 
