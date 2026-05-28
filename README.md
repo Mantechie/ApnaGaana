@@ -123,7 +123,7 @@ ApnaGaana/
 
 <div align="center">
 
-<video src="./Assests/clip.gif" width="80%" />
+<img src="./assests/clip.gif" style="width: 80%;" alt="Animated GIF">   
 
 ---
 
